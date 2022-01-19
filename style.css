@@ -1,0 +1,11 @@
+p{color: rgb(255, 255, 255);}
+
+body {background-color: rgb(94, 94, 94);}
+
+table {border-collapse: collapse;}
+
+table * {
+    border: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+}
